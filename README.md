@@ -100,6 +100,7 @@ Tools and models for use in conjuction with Stable Diffusion
 * [sd-prompt-graph](https://github.com/trevbook/sd-prompt-graph) - This is a React-based curve editor GUI for prompt interpolation animations made with Stable Diffusion.
 * [DAAM](https://github.com/castorini/daam) - Diffusion attention attribution maps, generating heatmaps modelling the impact of specific terms and tokens in the prompt on the final diffusion result.
 * [sd-concepts-library](https://huggingface.co/sd-concepts-library) - A library of user created [textual-inversion](https://textual-inversion.github.io/) embeddings to add new concepts to stable diffusion
+* [Auto1111SDK](https://github.com/saketh12/Auto1111SDK) - A Python library that encapsulates all the features of the Automatic 1111 Stable Diffusion Web UI into a lightweight, modular, and versatile SDK. 
 
 ## Training
 
@@ -247,6 +248,7 @@ Tutorials and high quality educational resources
 * 🖊️💵 [Starry AI (IOS)](https://apps.apple.com/us/app/starryai-create-art-with-ai/id1580512844) - Another IOS app offering stable diffusion with preset art styles. 
 * 🖊️ [Stable Horde](https://stablehorde.net/) - Distributed stable diffusion cluster (think folding@home) with web, discord and telegram interfaces where joining with your GPU gives you priority. 
 * 🖊️💵 [Stable Diffusion as API](https://stablediffusionapi.com/) - Third party REST API into table Diffusion service.
+* 🖊️💵 [Flush AI](https://www.flushai.cloud/) - Online AI Art Studio service by Flush AI.
 
 ## The Attic - previous links, retired for inactivity
 
